@@ -47,24 +47,3 @@ body{
   font-size:40px;
   font-weight:1;
   }
-
-a:link {text-decoration:none;}
-a:visited {text-decoration:none;}
-a:hover {text-decoration:none;}
-a:active {text-decoration:none;}
-
-#end{
-  position: absolute;
-  top:80%;
-  left:50%;
-  font-size:36px;
-  margin-left:-100px;
-  }
-
-#Keqing{
-  color:#990099;
-  }
-
-#cool{
-  color:#ffff33;
-  }
