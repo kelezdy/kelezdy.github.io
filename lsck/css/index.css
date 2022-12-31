@@ -26,7 +26,7 @@ body {
 
 #p1{
     top: 0vh;
-    background: url('../bg/bg1.jpg') no-repeat center center / 100% 100%;
+    background: url('/lsck/bg/bg1.jpg') no-repeat center center / 100% 100%;
     background-attachment: scroll;
     background-size: cover;
     overflow: hidden;
@@ -34,7 +34,7 @@ body {
 
 #p2{
     top: 100vh;
-    background: url('../bg/bg2.jpg') no-repeat center center / 100% 100%;
+    background: url('/lsck/bg/bg2.jpg') no-repeat center center / 100% 100%;
     background-attachment: scroll;
     background-size: cover;
     overflow: hidden;
@@ -42,7 +42,7 @@ body {
 
 #p3{
     top: 200vh;
-    background: url('../bg/bg3.jpg') no-repeat center center / 100% 100%;
+    background: url('/lsck/bg/bg3.jpg') no-repeat center center / 100% 100%;
     background-attachment: scroll;
     background-size: cover;
     overflow: hidden;
