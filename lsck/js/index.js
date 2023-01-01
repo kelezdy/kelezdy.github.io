@@ -51,12 +51,3 @@ function p1on() {
         }, 900);
     }
 }
-
-// 火狐浏览器
-document.addEventListener('DOMMouseScroll', (e) => {
-    if (e.detail > 0) {
-        console.log('向下滑');
-    } else {
-        console.log('向上滑');
-    }
-}, false);
